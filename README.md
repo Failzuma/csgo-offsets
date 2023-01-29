@@ -1,2 +1,2 @@
 # Website Branch
-Visit https://kittenpopo.github.io/csgo-offsets/
+Visit https://failzuma.github.io/csgo-offsets/
